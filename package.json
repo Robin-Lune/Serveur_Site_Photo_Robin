@@ -1,0 +1,15 @@
+{
+  "name": "serveur_site_photo",
+  "version": "1.0.0",
+  "description": "Serveur hébergement site photo Robin LEBON",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Robin LEBON",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
